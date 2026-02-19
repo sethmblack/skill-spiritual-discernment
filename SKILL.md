@@ -4,7 +4,7 @@ description: Discern whether spiritual experiences, consolations, or inner movem
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5037
+  version: 1.0.5038
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - spiritual-discernment
